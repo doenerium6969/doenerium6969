@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Doenerium</h1>
-<h3 align="center">I'm a fullstack developer from the UK</h3>
+<h3 align="center">I'm a biG hXckeR YES</h3>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Doenerium69&label=Profile%20views&color=5c12df&style=flat" alt="Doenerium69" />
@@ -8,7 +8,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Pentesting YES**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/doenerium6969?tab=repositories)
 
