@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/doenerium69" alt="Profile Forks"></a>
 </p>
 
--                                                👆 OMG Refresh the pasge 'F5' 👆
+-                                                 👆 OMG Refresh the pasge 'F5' 👆
 
 - 🌱 I’m currently learning **Pentesting YES**
 
