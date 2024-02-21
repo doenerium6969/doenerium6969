@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/doenerium6969?tab=repositories)
 
-- 📫 You can reach me by joining my [telegram](https://t.me/doenerium) or [discord](https://discord.gg/BRcG6Zubep)
+- 📫 You can reach me by joining my [telegram](https://t.me/doenerium69).
 
 
 <h3 align="left">Tech Stack</h3>
