@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Doenerium</h1>
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Doenerium69&label=Profile%20views&color=5c12df&style=flat" alt="Doenerium69" />
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/doenerium69" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/doenerium69" alt="Profile Forks"></a>
+<img src="https://komarev.com/ghpvc/?username=Doenerium69&label=Profile%20views&color=FFC83D&style=flat" alt="Doenerium69" />
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=FFC83D&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/doenerium69" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=FFC83D&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/doenerium69" alt="Profile Forks"></a>
 </p>
 
 
