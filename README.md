@@ -9,9 +9,7 @@
 
 -                                                 👆 OMG Refresh the pasge 'F5' 👆
 
-- 🌱 I’m currently learning **Pentesting YES**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/doenerium6969?tab=repositories)
+- 👨‍💻 Currently working on [Doenerium Stealer](https://github.com/doenerium6969/doenerium-fixed)
 
 - 📫 You can reach me by joining my [telegram](https://t.me/doenerium69).
 
