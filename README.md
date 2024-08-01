@@ -12,7 +12,7 @@
 - 📫 You can reach me by joining my [telegram](https://t.me/doenerium69).
 
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20an%20object%2Doriented,be%20adapted%20to%20multiple%20platforms." target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c-plus-plus" width="40" height="40"/> </a>
