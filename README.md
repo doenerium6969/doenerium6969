@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently working on [Doenerium Stealer](https://github.com/doenerium6969/doenerium-fixed)
 
-- 📫 You can reach me by joining my [telegram](https://t.me/doenerium69).
+- 📫 You can reach me by joining my [Revolt](https://rvlt.gg/WF80RrNf).
 
 
 <h3 align="left">Tech Stack:</h3>
